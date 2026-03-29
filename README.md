@@ -1,9 +1,9 @@
 # Reto-programa_de_notas_alumnos
-# 📊 Gestión de Notas en JavaScript
+#  Gestión de Notas en JavaScript
 
 Este proyecto es una aplicación web interactiva desarrollada con JavaScript que permite gestionar las notas de un curso.
 
-## 🚀 Funcionalidades
+##  Funcionalidades
 
 - Ingreso de nombre y notas de alumnos
 - Cálculo de promedio por alumno
